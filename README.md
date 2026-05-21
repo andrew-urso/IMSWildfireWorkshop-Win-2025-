@@ -1,7 +1,8 @@
-# IBM IMS Wildfire Workshop (Win2022)
-​
+
+
 ## Workshop Access Credentials
-​
+
+# IBM IMS Wildfire Workshop (Win2022)
 | Student No | URL | User ID | Password | Machine # |
 | --------- | --- | ------- | -------- | ---------- |
 | 1 | https://wdc-bmgw-new.ibmztrialmachines.com/t32211696010430/ | Administrator | PWkPDhUKyWZ21WM52IiG | 3221 |
@@ -23,3 +24,27 @@
 | 17 | https://wdc-bmgw-new.ibmztrialmachines.com/t32461696010417/ | Administrator | MLcqKUquR3VtidzaqUtV | 3246 |
 | 18 | https://wdc-bmgw-new.ibmztrialmachines.com/t32471696010439/ | Administrator | 5J7pr6peG57RupLK8d1X | 3247 |
 | 19 | https://wdc-bmgw-new.ibmztrialmachines.com/t32481696010446/ | Administrator | JtN5eF8Xqv5hnIdGTWXk | 3248 |
+
+
+# IBM ZVA IMS Tools Workshop (s390)
+
+
+| Serial No | URL | User ID | Password | Machine # |
+|---|---|---|---|---|
+| 1 | https://T-3325-169-60-104-4.ibmztrialmachines.com/ | Administrator | 1wXrlgotmT1SK2ChjkET | 3325 |
+| 2 | https://T-3326-169-60-104-56.ibmztrialmachines.com/ | Administrator | zQL1MRrqObMMsxuytTxf | 3326 |
+| 3 | https://T-3327-169-60-104-12.ibmztrialmachines.com/ | Administrator | LWZWYnAEcO1xyaqZkFFb | 3327 |
+| 4 | https://T-3329-169-60-104-24.ibmztrialmachines.com/ | Administrator | n1MXVXgy0HDQotwitvWA | 3329 |
+| 5 | https://T-3330-169-60-104-34.ibmztrialmachines.com/ | Administrator | dFvQf3sN1sfijD6vPwfs | 3330 |
+| 6 | https://T-3328-169-60-104-20.ibmztrialmachines.com/ | Administrator | DkFVSBwXPPFPJQym5Ssi | 3328 |
+| 7 | https://T-3332-169-60-104-45.ibmztrialmachines.com/ | Administrator | mQZoxt3xZWCv77xDEc4i | 3332 |
+| 8 | https://T-3333-169-60-104-41.ibmztrialmachines.com/ | Administrator | v6GZUH1hwsr4z3hROSfi | 3333 |
+| 9 | https://T-3331-169-60-104-36.ibmztrialmachines.com/ | Administrator | 74exuzOhG01xU0pSn6qU | 3331 |
+| 10 | https://T-3334-169-60-104-49.ibmztrialmachines.com/ | Administrator | sJtBi3AqRrQ7EyZUsJsH | 3334 |
+| 11 | https://T-3335-169-60-104-28.ibmztrialmachines.com/ | Administrator | CkkIgdcNh9fI71CO0aGG | 3335 |
+| 12 | https://T-3336-169-60-104-51.ibmztrialmachines.com/ | Administrator | EVS0DN5cwPrYClwzeh4J | 3336 |
+| 13 | https://T-3337-169-60-104-55.ibmztrialmachines.com/ | Administrator | DFTIM37obIg2aNEmf18Z | 3337 |
+| 14 | https://T-3338-169-60-104-22.ibmztrialmachines.com/ | Administrator | 73BvUpMOPduSXUe31Bgf | 3338 |
+| 15 | https://T-3339-169-60-104-60.ibmztrialmachines.com/ | Administrator | GvKmkr47JkqOZNahOXs8 | 3339 |
+| 16 | https://T-3341-169-60-104-32.ibmztrialmachines.com/ | Administrator | Z2hMBAyuKQ8SxwP9XrW8 | 3341 |
+| 17 | https://T-3340-169-60-104-18.ibmztrialmachines.com/ | Administrator | 873uJyilaEvy69qQJJDJ | 3340 |
