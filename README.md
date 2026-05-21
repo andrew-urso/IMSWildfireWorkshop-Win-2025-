@@ -2,7 +2,9 @@
 
 ## Workshop Access Credentials
 
-# IBM IMS Wildfire Workshop (Win2022)
+# IBM IMS Java Workshop
+# JDBC, JBP, JMP, Explore for VsCode, DDL with Explore for Development
+
 | Student No | URL | User ID | Password | Machine # |
 | --------- | --- | ------- | -------- | ---------- |
 | 1 | https://wdc-bmgw-new.ibmztrialmachines.com/t32211696010430/ | Administrator | PWkPDhUKyWZ21WM52IiG | 3221 |
@@ -28,8 +30,7 @@
 
 # IBM ZVA IMS Tools Workshop (s390)
 
-
-| Serial No | URL | User ID | Password | Machine # |
+| Student No | URL | User ID | Password | Machine # |
 |---|---|---|---|---|
 | 1 | https://T-3325-169-60-104-4.ibmztrialmachines.com/ | Administrator | 1wXrlgotmT1SK2ChjkET | 3325 |
 | 2 | https://T-3326-169-60-104-56.ibmztrialmachines.com/ | Administrator | zQL1MRrqObMMsxuytTxf | 3326 |
